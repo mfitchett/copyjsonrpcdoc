@@ -114,7 +114,8 @@ signup_ip | Originating IP address
         "show_tour": "1",
         "auth_token": "hidden"
     }
-}```
+}
+```
 
 ##### ERRORS
 CODE  | DESCRIPTION
@@ -229,7 +230,7 @@ anon_auth_token  | Anonymous user auth token
         "auth_token": "hidden"
     }
 }
-}```
+```
 
 ##### ERRORS
 CODE  | DESCRIPTION
@@ -321,7 +322,7 @@ X-Authorization  | 'auth_token' received from Authenticate User
         "billing_serial": null
     }
 }
-}```
+```
 
 ##### ERRORS
 CODE  | DESCRIPTION
@@ -395,7 +396,7 @@ update_fields *  | User Fields to be updated
         "show_tour": "1"
     }
 }
-}```
+```
 
 ##### ERRORS
 CODE  | DESCRIPTION
@@ -448,7 +449,7 @@ username *  | UserName of the account
         "auth_token": true
     }
 }
-}```
+```
 
 ##### ERRORS
 CODE  | DESCRIPTION
@@ -518,7 +519,7 @@ invite  | Array of member Email id's
         "permission": null
     }
 }
-}```
+```
 
 ##### ERRORS
 CODE  | DESCRIPTION
